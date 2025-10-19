@@ -23,12 +23,17 @@ body {
   display: flex;
   align-items: center;
   color: #ffffff;
+  top: 0;
+  left: 0;
   height: 94px;
-  position: relative;
+  width: 100%;
+  position: fixed;
   border-bottom: 1px solid rgba(235, 235, 240, 0.2);
+  z-index: 2;
 }
 
 .header {
+  padding: 94px;
   min-height: 100vh;
 }
 
