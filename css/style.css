@@ -441,4 +441,9 @@ body {
     line-height: 160%;
     color: #292d33;
   }
+  .mobile-social {
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
 }
