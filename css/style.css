@@ -215,7 +215,7 @@ body {
 .header-features-item {
   width: 18rem;
   padding: 1.875rem 3.125rem;
-  min-height: 100%;
+  height: auto;
   font-size: 1rem;
   line-height: 160%;
   border: 1px solid rgba(235, 235, 240, 0.2);
